@@ -1,17 +1,23 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, University College Birmingham
+  from: 2020
+  to: 2021
+  description: BA (Hons) Digital Marketing
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: UX Designer, Local E
+  from: July 2020
+  to: July 2020
+  description: Analysing interaction models, user-flows and UI specifications.
+   Considering the human-computer interation (HCI) element of design and
+   running user testing of the application.
+
+- title: Web Designer (Wordpress), Asia Pacific Youth Development Foundation
+  from: March 2020
+  to: April 2020
+  description: To redesign and migrate the existing website.
+      Supporting the branding upgrade project and
+      remaining the new site as a Wordpress CMS site.
+
+- title: Student, HKU Stanley Ho Community College
+  from: 2013
+  to: 2015
+  description: Higher Diploma of Tourism and Event Management

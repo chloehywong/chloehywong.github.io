@@ -1,0 +1,15 @@
+- name: Adobe XD
+  percentage: 85
+  color: info
+
+- name: Adobe Photoshop
+  percentage: 65
+  color: warning
+
+- name: HTML5/CSS3
+  percentage: 35
+  color: danger
+
+- name: Wordpress
+  percentage: 25
+  color:
