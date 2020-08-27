@@ -7,9 +7,9 @@
   color: warning
 
 - name: HTML5/CSS3
-  percentage: 35
+  percentage: 50
   color: danger
 
 - name: Wordpress
-  percentage: 25
+  percentage: 45
   color:
