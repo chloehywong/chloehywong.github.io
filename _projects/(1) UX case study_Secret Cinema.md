@@ -87,7 +87,7 @@ Several users complained in TrustPilot that they couldn’t get their issues res
 The wireframes showcase how the application’s design applies UX principles in order to benefit users and the brand.
 ![Picture](../assets/sc-ux1.png)
 
-![Picture](../assets/sc-ux2.png)
+![Picture](../assets/sc-ux3.png)
 <br/>
 #### A USER SITEMAP
 ![Picture](../assets/sc-sitemap.png)
