@@ -2,7 +2,7 @@
 name: Digital Audit and Digital Marketing Strategy
 tools: [Adobe XD, Canva]
 image: ../assets/Freddie_Cover.png
-description: Creating a Loyalty Rewarding Mobile Application for a UK Florist Brand
+description: Creating a loyalty rewarding mobile application for a UK florist brand
 ---
 
 # Digital Audit and Digital Marketing Strategy

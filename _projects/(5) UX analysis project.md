@@ -1,7 +1,7 @@
 ---
 name: A UX Analysis Project
 tools: [IOS, Zeplin]
-image: ../assets/locale_cover.png
+image: ../assets/Locale_cover.png
 description: Analysing a pre-launch P2P mobile app of UX effectiveness. Defining issues by testing interaction models and evaluating user journey.
 
 ---
