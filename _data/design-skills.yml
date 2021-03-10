@@ -1,15 +1,19 @@
-- name: Adobe XD
-  percentage: 85
+- name: User Experience Design
+  percentage: 70
+  color:
+
+- name: UX Research
+  percentage: 75
   color: info
 
-- name: Adobe Photoshop
-  percentage: 65
+- name: Wireframing & Prototyping
+  percentage: 70
   color: warning
 
-- name: HTML5/CSS3
-  percentage: 50
+- name: Communication & Collaboration
+  percentage: 65
   color: danger
 
-- name: Wordpress
-  percentage: 45
+- name: Time Management
+  percentage: 70
   color:

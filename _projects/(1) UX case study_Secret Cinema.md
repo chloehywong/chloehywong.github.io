@@ -86,6 +86,7 @@ Several users complained in TrustPilot that they couldn’t get their issues res
 ### THE UX AND NORMAN PRINCIPLES
 The wireframes showcase how the application’s design applies UX principles in order to benefit users and the brand.
 ![Picture](../assets/sc-ux1.png)
+
 ![Picture](../assets/sc-ux2.png)
 <br/>
 #### A USER SITEMAP
